@@ -146,4 +146,18 @@ body {
 
 .prev:hover, .next:hover {
     background-color: rgba(0, 0, 0, 0.8);
+
 }
+.escola-titulo{
+padding: 50px;
+text-align: center;
+}
+.logo_rodape{
+height: 80px;
+padding: 12px 0;
+
+}
+.link{
+    color: #ffffff;
+    text-decoration: none;
+    }
