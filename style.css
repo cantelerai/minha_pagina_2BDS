@@ -1,20 +1,10 @@
-<<<<<<< HEAD
-* Estilos gerais */
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-}
-=======
 /* Estilos gerais */
 body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
 }
->>>>>>> 0fab10571201fd56254933f3db855f6f82c8e430
 
-<<<<<<< HEAD
 /* Estilos da barra de navegação */
 .navbar {
     display: flex;
@@ -157,7 +147,3 @@ body {
 .prev:hover, .next:hover {
     background-color: rgba(0, 0, 0, 0.8);
 }
-.texto }
- display: block;
-    padding: 10px;
-    color: blue;
