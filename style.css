@@ -167,6 +167,10 @@ body {
     }
     
     .link{
-    color: #f1bebe;
+    color: #ffffff;
     text-decoration: none;
     }
+  .texto {
+    background-color: lightblue;
+    color: white;
+}
