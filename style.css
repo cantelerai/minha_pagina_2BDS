@@ -171,6 +171,6 @@ body {
     text-decoration: none;
     }
   .texto {
-    background-color: rgb(180, 77, 77);
+    background-color: hsl(0, 0%, 0%);
     color: white;
 }
