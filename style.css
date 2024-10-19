@@ -147,3 +147,13 @@ body {
 .prev:hover, .next:hover {
     background-color: rgba(0, 0, 0, 0.8);
 }
+.logo_rodape{
+    height: 80px;
+    padding: 12px 0;
+    
+    }
+    
+    .link{
+    color: #ffffff00;
+    text-decoration: none;
+    }
