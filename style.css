@@ -7,20 +7,23 @@
 
 body {
   font-family: 'Segoe UI', sans-serif;
-  text-align: center;
-  background-color: var(--lilas-claro);
   margin: 0;
-  padding: 20px;
+  height: 100vh;
+  background-color: var(--lilas-claro);
+
+  display: flex;
+  justify-content: center;  /* Centraliza horizontalmente */
+  align-items: center;      /* Centraliza verticalmente */
 }
 
 .container {
-  max-width: 400px;
-  margin: auto;
   background: white;
   padding: 30px;
   border-radius: 12px;
   box-shadow: 0 0 15px rgba(160, 108, 213, 0.2);
+  text-align: center;
 }
+
 
 h1 {
   color: var(--lilas-escuro);
